@@ -1,0 +1,7 @@
+C:\Users\hakan\source\repos\UdpClientThread\UdpClientThread\bin\Debug\UdpClientThread.exe.config
+C:\Users\hakan\source\repos\UdpClientThread\UdpClientThread\bin\Debug\UdpClientThread.exe
+C:\Users\hakan\source\repos\UdpClientThread\UdpClientThread\bin\Debug\UdpClientThread.pdb
+C:\Users\hakan\source\repos\UdpClientThread\UdpClientThread\obj\Debug\UdpClientThread.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\UdpClientThread\UdpClientThread\obj\Debug\UdpClientThread.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\UdpClientThread\UdpClientThread\obj\Debug\UdpClientThread.exe
+C:\Users\hakan\source\repos\UdpClientThread\UdpClientThread\obj\Debug\UdpClientThread.pdb

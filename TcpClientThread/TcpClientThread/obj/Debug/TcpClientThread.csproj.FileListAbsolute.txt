@@ -1,0 +1,7 @@
+C:\Users\hakan\source\repos\TcpClientThread\TcpClientThread\bin\Debug\TcpClientThread.exe.config
+C:\Users\hakan\source\repos\TcpClientThread\TcpClientThread\bin\Debug\TcpClientThread.exe
+C:\Users\hakan\source\repos\TcpClientThread\TcpClientThread\bin\Debug\TcpClientThread.pdb
+C:\Users\hakan\source\repos\TcpClientThread\TcpClientThread\obj\Debug\TcpClientThread.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\TcpClientThread\TcpClientThread\obj\Debug\TcpClientThread.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\TcpClientThread\TcpClientThread\obj\Debug\TcpClientThread.exe
+C:\Users\hakan\source\repos\TcpClientThread\TcpClientThread\obj\Debug\TcpClientThread.pdb
