@@ -1,0 +1,7 @@
+C:\Users\hakan\source\repos\CinsComClient\CinsComClient\bin\Debug\CinsComClient.exe.config
+C:\Users\hakan\source\repos\CinsComClient\CinsComClient\bin\Debug\CinsComClient.exe
+C:\Users\hakan\source\repos\CinsComClient\CinsComClient\bin\Debug\CinsComClient.pdb
+C:\Users\hakan\source\repos\CinsComClient\CinsComClient\obj\Debug\CinsComClient.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\CinsComClient\CinsComClient\obj\Debug\CinsComClient.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\CinsComClient\CinsComClient\obj\Debug\CinsComClient.exe
+C:\Users\hakan\source\repos\CinsComClient\CinsComClient\obj\Debug\CinsComClient.pdb

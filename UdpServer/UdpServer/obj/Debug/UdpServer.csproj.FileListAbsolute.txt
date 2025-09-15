@@ -1,0 +1,7 @@
+C:\Users\hakan\source\repos\UdpServer\UdpServer\bin\Debug\UdpServer.exe.config
+C:\Users\hakan\source\repos\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+C:\Users\hakan\source\repos\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+C:\Users\hakan\source\repos\UdpServer\UdpServer\obj\Debug\UdpServer.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\UdpServer\UdpServer\obj\Debug\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\UdpServer\UdpServer\obj\Debug\UdpServer.exe
+C:\Users\hakan\source\repos\UdpServer\UdpServer\obj\Debug\UdpServer.pdb

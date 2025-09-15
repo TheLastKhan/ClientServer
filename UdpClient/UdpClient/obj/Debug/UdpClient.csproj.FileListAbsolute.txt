@@ -1,0 +1,7 @@
+C:\Users\hakan\source\repos\UdpClient\UdpClient\bin\Debug\UdpClient.exe.config
+C:\Users\hakan\source\repos\UdpClient\UdpClient\bin\Debug\UdpClient.exe
+C:\Users\hakan\source\repos\UdpClient\UdpClient\bin\Debug\UdpClient.pdb
+C:\Users\hakan\source\repos\UdpClient\UdpClient\obj\Debug\UdpClient.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\UdpClient\UdpClient\obj\Debug\UdpClient.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\UdpClient\UdpClient\obj\Debug\UdpClient.exe
+C:\Users\hakan\source\repos\UdpClient\UdpClient\obj\Debug\UdpClient.pdb
