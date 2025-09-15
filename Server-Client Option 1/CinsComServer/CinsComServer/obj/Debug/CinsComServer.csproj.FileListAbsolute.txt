@@ -1,7 +1,0 @@
-C:\Users\hakan\source\repos\CinsComServer\CinsComServer\bin\Debug\CinsComServer.exe.config
-C:\Users\hakan\source\repos\CinsComServer\CinsComServer\bin\Debug\CinsComServer.exe
-C:\Users\hakan\source\repos\CinsComServer\CinsComServer\bin\Debug\CinsComServer.pdb
-C:\Users\hakan\source\repos\CinsComServer\CinsComServer\obj\Debug\CinsComServer.csproj.AssemblyReference.cache
-C:\Users\hakan\source\repos\CinsComServer\CinsComServer\obj\Debug\CinsComServer.csproj.CoreCompileInputs.cache
-C:\Users\hakan\source\repos\CinsComServer\CinsComServer\obj\Debug\CinsComServer.exe
-C:\Users\hakan\source\repos\CinsComServer\CinsComServer\obj\Debug\CinsComServer.pdb
